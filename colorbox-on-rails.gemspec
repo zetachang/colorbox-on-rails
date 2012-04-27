@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Colorbox::On::Rails::VERSION
   s.authors     = ["David Chang"]
   s.email       = ["zeta11235813@gmail.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://github.com/zetachang/colorbox-on-rails"
+  s.summary     = "An assets gem for jquery.colorbox integrating with Rails 3.1"
+  s.description = "An asset gem pack the ColorBox jQuery Plugin (http://www.jacklmoore.com/colorbox)"
 
   s.rubyforge_project = "colorbox-on-rails"
 
