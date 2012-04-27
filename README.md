@@ -8,7 +8,7 @@ Currently only support Rails 3.1
 
 Add this line to `Gemfile`:
     
-    gem 'colorbox-on-rails', :git => 'git@github.com:zetachang/colorbox-on-rails.git'
+    gem 'colorbox-on-rails'
 
 And then execute:
 
